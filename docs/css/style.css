@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#navbar {
+  position: absolute;
+  z-index: 10;
+  width: 100%; }
+  #navbar .navbar {
+    padding: 40px 0; }
+  #navbar .navbar-brand {
+    font-weight: 600;
+    font-size: 1.5em; }
+  #navbar .navbar-dark .navbar-brand {
+    color: #fecb00; }
+  #navbar .navbar-item {
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-left: 50px; }
+    #navbar .navbar-item .btn {
+      padding-left: 25px;
+      padding-right: 25px;
+      border-radius: 0; }
+    #navbar .navbar-item .btn:hover {
+      color: white; }
+  #navbar .nav-link:hover {
+    background: #fecb00;
+    color: white; }
+
+#home-section {
+  background: url(../img/_MG_5246-HDR-Edit.jpg) no-repeat;
+  min-height: 700px;
+  background-size: cover;
+  background-attachment: scroll;
+  color: white; }
+  #home-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px; }
+  #home-section .home-inner {
+    padding-top: 150px; }
+  #home-section i {
+    font-size: 2.5rem; }
+
+#explore-head-section {
+  background-color: #fffef0;
+  color: black; }
+
+#explore-section {
+  background-color: #fffef0;
+  color: black !important; }
+
+#secondSection {
+  background-color: #fffef0; }
+
+#main-footer {
+  color: white; }

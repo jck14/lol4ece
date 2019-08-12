@@ -34,7 +34,7 @@
   background-attachment: scroll;
   color: white; }
   #home-section .dark-overlay {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.3);
     position: absolute;
     top: 0;
     left: 0;
@@ -46,14 +46,15 @@
     font-size: 2.5rem; }
 
 #explore-head-section {
-  background-color: #fff;
-  color: #343a40; }
+  background-color: #fffef0;
+  color: black; }
 
 #explore-section {
-  background-color: white; }
+  background-color: #fffef0;
+  color: black !important; }
 
 #secondSection {
-  background-color: white; }
+  background-color: #fffef0; }
 
 #main-footer {
   color: white; }

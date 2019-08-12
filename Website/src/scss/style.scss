@@ -1,6 +1,6 @@
 $bg-color: #333;
 $color: #fff;
-$dark-overlay: rgba(0,0,0,0.7);
+$dark-overlay: rgba(0,0,0,0.3);
 $color1: #eb008b;
 $color2: #fecb00;
 $dark: #343a40;
@@ -67,19 +67,21 @@ $dark: #343a40;
 }
 
 #explore-head-section{
-    background-color: $color;
-    color: $dark;
+    background-color: #fffef0;
+    color: black;
+    //color: white;
 }
 
 #explore-section{
-  //background-color: #f6e58d;
-  background-color: white;
+  background-color: #fffef0;
+  //background-color: white;
+  color: black!important;
 }
 
 #secondSection{
-  //background-color: #ff7979;
+  background-color: #fffef0;
   //color: white !important;
-  background-color: white;
+  //background-color: white;
 }
 
 #main-footer{
