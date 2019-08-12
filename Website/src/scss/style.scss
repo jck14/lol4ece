@@ -61,9 +61,27 @@ $dark: #343a40;
   .home-inner{
     padding-top: 150px;
   }
+  i{
+    font-size: 2.5rem;
+  }
 }
 
 #explore-head-section{
     background-color: $color;
     color: $dark;
+}
+
+#explore-section{
+  //background-color: #f6e58d;
+  background-color: white;
+}
+
+#secondSection{
+  //background-color: #ff7979;
+  //color: white !important;
+  background-color: white;
+}
+
+#main-footer{
+  color: white;
 }

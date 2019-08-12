@@ -42,7 +42,18 @@
     min-height: 700px; }
   #home-section .home-inner {
     padding-top: 150px; }
+  #home-section i {
+    font-size: 2.5rem; }
 
 #explore-head-section {
   background-color: #fff;
   color: #343a40; }
+
+#explore-section {
+  background-color: white; }
+
+#secondSection {
+  background-color: white; }
+
+#main-footer {
+  color: white; }
